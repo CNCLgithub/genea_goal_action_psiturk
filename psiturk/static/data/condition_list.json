@@ -1,0 +1,366 @@
+{
+  "question_prompt_action": "What was my next <b>action</b>?",
+  "question_prompt_goal": "What was the <b>goal</b>?",
+  "stimulus": [
+    {
+      "trial_id": "d",
+      "trial_type": "action",
+      "trial_init_img": "action_d1.JPG",
+      "trial_final_img": "action_d1_f.JPG",
+      "trial_option_left_img": "action_d1_opt_1.JPG",
+      "trial_option_right_img": "action_d1_opt_2.JPG",
+      "trial_option_left_detail": "one_hand",
+      "trial_option_right_detail": "two_hands"
+    },
+    {
+      "trial_id": "h",
+      "trial_type": "goal",
+      "trial_init_img": "goal_h2.JPG",
+      "trial_final_img": null,
+      "trial_option_left_img": "goal_h2_opt_1.JPG",
+      "trial_option_right_img": "goal_h2_opt_2.JPG",
+      "trial_option_left_detail": "other",
+      "trial_option_right_detail": "expected"
+    },
+    {
+      "trial_id": "e",
+      "trial_type": "action",
+      "trial_init_img": "action_e2.JPG",
+      "trial_final_img": "action_e2_f.JPG",
+      "trial_option_left_img": "action_e2_opt_1.JPG",
+      "trial_option_right_img": "action_e2_opt_2.JPG",
+      "trial_option_left_detail": "two_hands",
+      "trial_option_right_detail": "one_hand"
+    },
+    {
+      "trial_id": "b",
+      "trial_type": "action",
+      "trial_init_img": "action_b2.JPG",
+      "trial_final_img": "action_b2_f.JPG",
+      "trial_option_left_img": "action_b2_opt_1.JPG",
+      "trial_option_right_img": "action_b2_opt_2.JPG",
+      "trial_option_left_detail": "two_hands",
+      "trial_option_right_detail": "one_hand"
+    },
+    {
+      "trial_id": "f",
+      "trial_type": "goal",
+      "trial_init_img": "goal_f1.JPG",
+      "trial_final_img": null,
+      "trial_option_left_img": "goal_f1_opt_1.JPG",
+      "trial_option_right_img": "goal_f1_opt_2.JPG",
+      "trial_option_left_detail": "expected",
+      "trial_option_right_detail": "expected"
+    },
+    {
+      "trial_id": "c",
+      "trial_type": "action",
+      "trial_init_img": "action_c2.JPG",
+      "trial_final_img": "action_c2_f.JPG",
+      "trial_option_left_img": "action_c2_opt_1.JPG",
+      "trial_option_right_img": "action_c2_opt_2.JPG",
+      "trial_option_left_detail": "one_hand",
+      "trial_option_right_detail": "two_hands"
+    },
+    {
+      "trial_id": "h",
+      "trial_type": "action",
+      "trial_init_img": "action_h2.JPG",
+      "trial_final_img": "action_h2_f.JPG",
+      "trial_option_left_img": "action_h2_opt_1.JPG",
+      "trial_option_right_img": "action_h2_opt_2.JPG",
+      "trial_option_left_detail": "one_hand",
+      "trial_option_right_detail": "two_hands"
+    },
+    {
+      "trial_id": "e",
+      "trial_type": "goal",
+      "trial_init_img": "goal_e1.JPG",
+      "trial_final_img": null,
+      "trial_option_left_img": "goal_e1_opt_1.JPG",
+      "trial_option_right_img": "goal_e1_opt_2.JPG",
+      "trial_option_left_detail": "expected",
+      "trial_option_right_detail": "other"
+    },
+    {
+      "trial_id": "a",
+      "trial_type": "goal",
+      "trial_init_img": "goal_a1.JPG",
+      "trial_final_img": null,
+      "trial_option_left_img": "goal_a1_opt_1.JPG",
+      "trial_option_right_img": "goal_a1_opt_2.JPG",
+      "trial_option_left_detail": "other",
+      "trial_option_right_detail": "expected"
+    },
+    {
+      "trial_id": "f",
+      "trial_type": "action",
+      "trial_init_img": "action_f1.JPG",
+      "trial_final_img": "action_f1_f.JPG",
+      "trial_option_left_img": "action_f1_opt_1.JPG",
+      "trial_option_right_img": "action_f1_opt_2.JPG",
+      "trial_option_left_detail": "one_hand",
+      "trial_option_right_detail": "two_hands"
+    },
+    {
+      "trial_id": "b",
+      "trial_type": "action",
+      "trial_init_img": "action_b1.JPG",
+      "trial_final_img": "action_b1_f.JPG",
+      "trial_option_left_img": "action_b1_opt_1.JPG",
+      "trial_option_right_img": "action_b1_opt_2.JPG",
+      "trial_option_left_detail": "one_hand",
+      "trial_option_right_detail": "two_hands"
+    },
+    {
+      "trial_id": "g",
+      "trial_type": "goal",
+      "trial_init_img": "goal_g2.JPG",
+      "trial_final_img": null,
+      "trial_option_left_img": "goal_g2_opt_1.JPG",
+      "trial_option_right_img": "goal_g2_opt_2.JPG",
+      "trial_option_left_detail": "other",
+      "trial_option_right_detail": "expected"
+    },
+    {
+      "trial_id": "c",
+      "trial_type": "goal",
+      "trial_init_img": "goal_c1.JPG",
+      "trial_final_img": null,
+      "trial_option_left_img": "goal_c1_opt_1.JPG",
+      "trial_option_right_img": "goal_c1_opt_2.JPG",
+      "trial_option_left_detail": "other",
+      "trial_option_right_detail": "expected"
+    },
+    {
+      "trial_id": "f",
+      "trial_type": "action",
+      "trial_init_img": "action_f3.JPG",
+      "trial_final_img": "action_f3_f.JPG",
+      "trial_option_left_img": "action_f3_opt_1.JPG",
+      "trial_option_right_img": "action_f3_opt_2.JPG",
+      "trial_option_left_detail": "one_hand",
+      "trial_option_right_detail": "two_hands"
+    },
+    {
+      "trial_id": "a",
+      "trial_type": "action",
+      "trial_init_img": "action_a1.JPG",
+      "trial_final_img": "action_a1_f.JPG",
+      "trial_option_left_img": "action_a1_opt_1.JPG",
+      "trial_option_right_img": "action_a1_opt_2.JPG",
+      "trial_option_left_detail": "one_hand",
+      "trial_option_right_detail": "two_hands"
+    },
+    {
+      "trial_id": "e",
+      "trial_type": "goal",
+      "trial_init_img": "goal_e2.JPG",
+      "trial_final_img": null,
+      "trial_option_left_img": "goal_e2_opt_1.JPG",
+      "trial_option_right_img": "goal_e2_opt_2.JPG",
+      "trial_option_left_detail": "other",
+      "trial_option_right_detail": "expected"
+    },
+    {
+      "trial_id": "h",
+      "trial_type": "goal",
+      "trial_init_img": "goal_h1.JPG",
+      "trial_final_img": null,
+      "trial_option_left_img": "goal_h1_opt_1.JPG",
+      "trial_option_right_img": "goal_h1_opt_2.JPG",
+      "trial_option_left_detail": "expected",
+      "trial_option_right_detail": "other"
+    },
+    {
+      "trial_id": "a",
+      "trial_type": "action",
+      "trial_init_img": "action_a2.JPG",
+      "trial_final_img": "action_a2_f.JPG",
+      "trial_option_left_img": "action_a2_opt_1.JPG",
+      "trial_option_right_img": "action_a2_opt_2.JPG",
+      "trial_option_left_detail": "two_hands",
+      "trial_option_right_detail": "one_hand"
+    },
+    {
+      "trial_id": "f",
+      "trial_type": "action",
+      "trial_init_img": "action_f2.JPG",
+      "trial_final_img": "action_f2_f.JPG",
+      "trial_option_left_img": "action_f2_opt_1.JPG",
+      "trial_option_right_img": "action_f2_opt_2.JPG",
+      "trial_option_left_detail": "two_hands",
+      "trial_option_right_detail": "one_hand"
+    },
+    {
+      "trial_id": "c",
+      "trial_type": "goal",
+      "trial_init_img": "goal_c2.JPG",
+      "trial_final_img": null,
+      "trial_option_left_img": "goal_c2_opt_1.JPG",
+      "trial_option_right_img": "goal_c2_opt_2.JPG",
+      "trial_option_left_detail": "expected",
+      "trial_option_right_detail": "other"
+    },
+    {
+      "trial_id": "g",
+      "trial_type": "goal",
+      "trial_init_img": "goal_g1.JPG",
+      "trial_final_img": null,
+      "trial_option_left_img": "goal_g1_opt_1.JPG",
+      "trial_option_right_img": "goal_g1_opt_2.JPG",
+      "trial_option_left_detail": "expected",
+      "trial_option_right_detail": "other"
+    },
+    {
+      "trial_id": "d",
+      "trial_type": "action",
+      "trial_init_img": "action_d2.JPG",
+      "trial_final_img": "action_d2_f.JPG",
+      "trial_option_left_img": "action_d2_opt_1.JPG",
+      "trial_option_right_img": "action_d2_opt_2.JPG",
+      "trial_option_left_detail": "two_hands",
+      "trial_option_right_detail": "one_hand"
+    },
+    {
+      "trial_id": "h",
+      "trial_type": "action",
+      "trial_init_img": "action_h1.JPG",
+      "trial_final_img": "action_h1_f.JPG",
+      "trial_option_left_img": "action_h1_opt_1.JPG",
+      "trial_option_right_img": "action_h1_opt_2.JPG",
+      "trial_option_left_detail": "two_hands",
+      "trial_option_right_detail": "one_hand"
+    },
+    {
+      "trial_id": "b",
+      "trial_type": "goal",
+      "trial_init_img": "goal_b2.JPG",
+      "trial_final_img": null,
+      "trial_option_left_img": "goal_b2_opt_1.JPG",
+      "trial_option_right_img": "goal_b2_opt_2.JPG",
+      "trial_option_left_detail": "expected",
+      "trial_option_right_detail": "expected"
+    },
+    {
+      "trial_id": "g",
+      "trial_type": "action",
+      "trial_init_img": "action_g3.JPG",
+      "trial_final_img": "action_g3_f.JPG",
+      "trial_option_left_img": "action_g3_opt_1.JPG",
+      "trial_option_right_img": "action_g3_opt_2.JPG",
+      "trial_option_left_detail": "two_hands",
+      "trial_option_right_detail": "one_hand"
+    },
+    {
+      "trial_id": "c",
+      "trial_type": "action",
+      "trial_init_img": "action_c1.JPG",
+      "trial_final_img": "action_c1_f.JPG",
+      "trial_option_left_img": "action_c1_opt_1.JPG",
+      "trial_option_right_img": "action_c1_opt_2.JPG",
+      "trial_option_left_detail": "two_hands",
+      "trial_option_right_detail": "one_hand"
+    },
+    {
+      "trial_id": "f",
+      "trial_type": "goal",
+      "trial_init_img": "goal_f2.JPG",
+      "trial_final_img": null,
+      "trial_option_left_img": "goal_f2_opt_1.JPG",
+      "trial_option_right_img": "goal_f2_opt_2.JPG",
+      "trial_option_left_detail": "expected",
+      "trial_option_right_detail": "expected"
+    },
+    {
+      "trial_id": "a",
+      "trial_type": "goal",
+      "trial_init_img": "goal_a2.JPG",
+      "trial_final_img": null,
+      "trial_option_left_img": "goal_a2_opt_1.JPG",
+      "trial_option_right_img": "goal_a2_opt_2.JPG",
+      "trial_option_left_detail": "expected",
+      "trial_option_right_detail": "other"
+    },
+    {
+      "trial_id": "g",
+      "trial_type": "action",
+      "trial_init_img": "action_g1.JPG",
+      "trial_final_img": "action_g1_f.JPG",
+      "trial_option_left_img": "action_g1_opt_1.JPG",
+      "trial_option_right_img": "action_g1_opt_2.JPG",
+      "trial_option_left_detail": "two_hands",
+      "trial_option_right_detail": "one_hand"
+    },
+    {
+      "trial_id": "d",
+      "trial_type": "goal",
+      "trial_init_img": "goal_d2.JPG",
+      "trial_final_img": null,
+      "trial_option_left_img": "goal_d2_opt_1.JPG",
+      "trial_option_right_img": "goal_d2_opt_2.JPG",
+      "trial_option_left_detail": "other",
+      "trial_option_right_detail": "expected"
+    },
+    {
+      "trial_id": "i",
+      "trial_type": "action",
+      "trial_init_img": "action_i2.JPG",
+      "trial_final_img": "action_i2_f.JPG",
+      "trial_option_left_img": "action_i2_opt_1.JPG",
+      "trial_option_right_img": "action_i2_opt_2.JPG",
+      "trial_option_left_detail": "one_hand",
+      "trial_option_right_detail": "other_hand_left_most_block"
+    },
+    {
+      "trial_id": "e",
+      "trial_type": "action",
+      "trial_init_img": "action_e1.JPG",
+      "trial_final_img": "action_e1_f.JPG",
+      "trial_option_left_img": "action_e1_opt_1.JPG",
+      "trial_option_right_img": "action_e1_opt_2.JPG",
+      "trial_option_left_detail": "one_hand",
+      "trial_option_right_detail": "two_hands"
+    },
+    {
+      "trial_id": "b",
+      "trial_type": "goal",
+      "trial_init_img": "goal_b1.JPG",
+      "trial_final_img": null,
+      "trial_option_left_img": "goal_b1_opt_1.JPG",
+      "trial_option_right_img": "goal_b1_opt_2.JPG",
+      "trial_option_left_detail": "expected",
+      "trial_option_right_detail": "expected"
+    },
+    {
+      "trial_id": "g",
+      "trial_type": "action",
+      "trial_init_img": "action_g2.JPG",
+      "trial_final_img": "action_g2_f.JPG",
+      "trial_option_left_img": "action_g2_opt_1.JPG",
+      "trial_option_right_img": "action_g2_opt_2.JPG",
+      "trial_option_left_detail": "one_hand",
+      "trial_option_right_detail": "two_hands"
+    },
+    {
+      "trial_id": "d",
+      "trial_type": "goal",
+      "trial_init_img": "goal_d1.JPG",
+      "trial_final_img": null,
+      "trial_option_left_img": "goal_d1_opt_1.JPG",
+      "trial_option_right_img": "goal_d1_opt_2.JPG",
+      "trial_option_left_detail": "expected",
+      "trial_option_right_detail": "other"
+    },
+    {
+      "trial_id": "i",
+      "trial_type": "action",
+      "trial_init_img": "action_i1.JPG",
+      "trial_final_img": "action_i1_f.JPG",
+      "trial_option_left_img": "action_i1_opt_1.JPG",
+      "trial_option_right_img": "action_i1_opt_2.JPG",
+      "trial_option_left_detail": "other_hand_left_most_block",
+      "trial_option_right_detail": "one_hand"
+    }
+  ]
+}
